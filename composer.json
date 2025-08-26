@@ -1,0 +1,12 @@
+{
+   "name": "wp-dev-blog/refactor-multi-block-plugin",
+   "description": "An advanced multi block plugin with custom functionality.",
+   "type": "wordpress-plugin",
+   "license": "GPL-2.0-or-later",
+   "autoload": {
+       "psr-4": {
+           "Advanced_Multi_Block\\": "Functions/"
+       }
+   }
+}
+
